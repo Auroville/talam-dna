@@ -8,8 +8,9 @@ In the search for a purpose of my life, I have been looking for various philosop
 
 One of the earliest perspectives that I got exposed to is Zorba The Buddha, a term coined by Osho to symbolize the union of two archetypes: Zorba, representing the enjoyment of life, sensuality, and embracing the material world, and Buddha, representing spiritual enlightenment and transcendence.
 
-  Zorba has to become Buddha, and Buddha has to understand and respect its own foundation. Roots may be ugly, but without those roots there are not going to be any flowers. The flowers may be beautiful, fragrant, but all their juice and all their fragrance comes from the roots. You cannot cut the tree in two saying that roots are ugly; you will destroy the tree. You have destroyed man by cutting him in two, into lower and higher, into material and spiritual. My whole effort is to make you understand a simple thing, that the roots may be ugly, but they are the very life of the most beautiful flowers. The juices that are coming to the flowers are coming from the roots. Without a Zorba, a Buddha is a dead saint, just a corpse with no soul. Without a Buddha, a Zorba is just an animal, not yet evolved into humanity. My vision for the future man is that there will be no split, and we will be able to make this world and that world one, body and soul one, Zorba and Buddha one. 
-  - Osho
+> Zorba has to become Buddha, and Buddha has to understand and respect its own foundation. Roots may be ugly, but without those roots there are not going to be any flowers. The flowers may be beautiful, fragrant, but all their juice and all their fragrance comes from the roots. You cannot cut the tree in two saying that roots are ugly; you will destroy the tree. You have destroyed man by cutting him in two, into lower and higher, into material and spiritual. My whole effort is to make you understand a simple thing, that the roots may be ugly, but they are the very life of the most beautiful flowers. The juices that are coming to the flowers are coming from the roots. Without a Zorba, a Buddha is a dead saint, just a corpse with no soul. Without a Buddha, a Zorba is just an animal, not yet evolved into humanity. My vision for the future man is that there will be no split, and we will be able to make this world and that world one, body and soul one, Zorba and Buddha one. 
+> 
+> -- Osho
 
 Then came Puruṣārtha which explained the 4 goals of human life as Dharma, Arta, Kama, Moksha.
 
@@ -24,29 +25,44 @@ And then came Charles Eisenstein’s book “Sacred Economics: Money, Gift, and 
 
 And then came the Dream of Auroville:
 
-There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world and obey one single authority, that of the supreme truth; a place of peace, concord and harmony where all the fighting instincts of man would be used exclusively to conquer the causes of his sufferings and miseries, to surmount his weaknesses and ignorance, to triumph over his limitations and incapacities; a place where the needs of the spirit and the concern for progress would take precedence over the satisfaction of desires and passions, the search for pleasure and material enjoyment. - The Mother
+> There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world and obey one single authority, that of the supreme truth; a place of peace, concord and harmony where all the fighting instincts of man would be used exclusively to conquer the causes of his sufferings and miseries, to surmount his weaknesses and ignorance, to triumph over his limitations and incapacities; a place where the needs of the spirit and the concern for progress would take precedence over the satisfaction of desires and passions, the search for pleasure and material enjoyment. - The Mother
 
 While I can be a Zorba the Buddha or have an integral growth of my physical, vital, mental and spiritual bodies without making any effort towards improving the society I live in, the idea of Auroville or those expressed in Sacred Economics or those in Purusartha make my individual progress or goal in the context of the society I live in and therefore making the growth in me inseparable from the growth in the society. 
 
 My work today at Talam is towards this intertwined personal and societal growth and this can be summarised in the words of Michael Jackson (Zorba) and Mahatma Gandhi (The Buddha).
 
-  Heal the world
-  Make it a better place
-  For you and for me
-  And the entire human race
-  There are people dying
-  If you care enough for the living
-  Make a better place
-  For you and for me
+> Heal the world
+> 
+> Make it a better place
+> 
+> For you and for me
+> 
+> And the entire human race
+> 
+> There are people dying
+> 
+> If you care enough for the living
+> 
+> Make a better place
+> 
+> For you and for me
 
-  I'm starting with the man in the mirror
-  I'm asking him to change his ways
-  And no message could have been any clearer
-  If you wanna make the world a better place
-  Take a look at yourself and then make a change
-  - Michael Jackson
+> I'm starting with the man in the mirror
+> 
+> I'm asking him to change his ways
+> 
+> And no message could have been any clearer
+> 
+> If you wanna make the world a better place
+> 
+> Take a look at yourself and then make a change
+> 
+> -- Michael Jackson
 
-  We but mirror the world. All the tendencies present in the outer world are to be found in the world of our body. If we could change ourselves, the tendencies in the world would also change. As a man changes his own nature, so does the attitude of the world change towards him. This is the divine mystery supreme. A wonderful thing it is and the source of our happiness. We need not wait to see what others do. – Mahatma Gandhi
+
+> We but mirror the world. All the tendencies present in the outer world are to be found in the world of our body. If we could change ourselves, the tendencies in the world would also change. As a man changes his own nature, so does the attitude of the world change towards him. This is the divine mystery supreme. A wonderful thing it is and the source of our happiness. We need not wait to see what others do. 
+> 
+> -– Mahatma Gandhi
 
 
 ## Invitation to Cocreate
