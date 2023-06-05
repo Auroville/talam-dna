@@ -76,7 +76,7 @@ Here is my shorter version of the long journey that I can relate to on a daily b
 > 
 > -– Mahatma Gandhi
 
-
+I invite you to find your personal expression of Talam's vision and start adding it to this repository. This is a powerful way to relate to this vision and strenghten it by sharing with the rest of the team.
 
 ## Invitation to Cocreate
 These philosophies reflect the inner state, value of Talam and shape the way we do our work in Talam. You are welcome to read more about these philosophies, discuss and share your views on the same with everyone at Talam. 
