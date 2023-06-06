@@ -27,9 +27,21 @@ And then came the Dream of Auroville:
 
 > There should be somewhere on earth a place which no nation could claim as its own, where all human beings of goodwill who have a sincere aspiration could live freely as citizens of the world and obey one single authority, that of the supreme truth; a place of peace, concord and harmony where all the fighting instincts of man would be used exclusively to conquer the causes of his sufferings and miseries, to surmount his weaknesses and ignorance, to triumph over his limitations and incapacities; a place where the needs of the spirit and the concern for progress would take precedence over the satisfaction of desires and passions, the search for pleasure and material enjoyment. - The Mother
 
-While I can be a Zorba the Buddha or have an integral growth of my physical, vital, mental and spiritual bodies without making any effort towards improving the society I live in, the idea of Auroville or those expressed in Sacred Economics or those in Purusartha make my individual progress or goal in the context of the society I live in and therefore making the growth in me inseparable from the growth in the society. 
+While we can be a Zorba the Buddha or have an integral growth of physical, vital, mental and spiritual bodies without making any effort towards improving the society we live in, the dream of Auroville, the philosophy expressed in Sacred Economics and those in Purusartha make our individual progress or goal in the context of the society we live in and thereby making the growth as an individual inseparable from the growth in the society. 
 
-My work today at Talam is towards this intertwined personal and societal growth and this can be summarised in the words of Michael Jackson (Zorba) and Mahatma Gandhi (The Buddha).
+## Purpose of Talam
+Talam was founded to contribute to the dream and goal of building Auroville -- building an ideal society that has its roots in divinity and sacredness. This contribution towards building this society is what I see as the highest purpose of our lives. 
+
+## What is in the name?
+Talam was coined by Manoj and Shankardevy while having breakfast at the Townhall Canteen in Auroville. Various names were evaluated and I don't have a list of all these names now but when Talam came up as an option, both of us instantly liked it. `Talam` in Tamil language means the rhythm that accompanies classical music. Ideally the name should have double `aa` as in `Taalam` but Manoj preferred to keep it one `a`. 
+
+`Talam` resonated to both of us because it symbolically meant so many things important for the work we do. For eg. in the agile software development world, regular sprint is the way to measure the progress of work, which can be seen as the `talam` of work. In a musical concert, `talam` provides the backdrop for every other instrument or singer to work in unison and Talam in the context of Auroville can be the organisation that provides tools that helps other bodies to synchorize. Moreover, I love instrumental music and had played in the past Saxophone, clarinet, harmonium, flute and learned a bit of violin, veena and guitar. So anything related to music was close to my heart personally :-)
+
+## Personal expression of the dream
+What is said above as the journey and purpose of Talam is a long story. It's often difficult to keep in memory this long story on a day-to-day basis. Moreover, each of the team member of Talam needs to have a personal expression of this dream that resonates with them and that is easy to remember and related to in a frequent basis. 
+
+Here is my shorter version of the long journey that I can relate to on a daily basis. It's composed from two of the songs by Michael Jackson (Zorba). Since these are songs that I can listen to, it makes it easier for me to connect with the vision of Talam regularly. Another version is a quote by Mahatma Gandhi (The Buddha) which I like nevertheless I feel it conveys only a partial message.
+
 
 > Heal the world
 > 
@@ -64,6 +76,7 @@ My work today at Talam is towards this intertwined personal and societal growth 
 > 
 > -– Mahatma Gandhi
 
+I invite you to find your personal expression of Talam's vision and start adding it to this repository. This is a powerful way to relate to this vision and strenghten it by sharing with the rest of the team.
 
 ## Invitation to Cocreate
 These philosophies reflect the inner state, value of Talam and shape the way we do our work in Talam. You are welcome to read more about these philosophies, discuss and share your views on the same with everyone at Talam. 
